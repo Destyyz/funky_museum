@@ -1,3 +1,5 @@
 glimac/
 CMakeUtils/
-assets
+assets/
+build/
+bin/
